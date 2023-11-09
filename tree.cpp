@@ -7,5 +7,3 @@ int main()
 {
 cout<<"Hello"<<endl;
 }
-# commit -m "wiadomosc"
-commit -q
